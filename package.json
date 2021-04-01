@@ -1,0 +1,18 @@
+{
+  "name": "node.js-setup",
+  "version": "1.0.0",
+  "description": "My finest server",
+  "main": "cd ..",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
