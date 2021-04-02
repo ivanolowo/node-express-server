@@ -14,4 +14,3 @@ var server = app.listen(app.get('port'), function () {
     console.log('The server is running on http://localhost:' + app.get('port'));
 });
 
-console.log('Hello world!');
